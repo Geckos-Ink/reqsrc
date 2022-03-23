@@ -1,6 +1,6 @@
 {
   "name": "reqsrc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The stupidest npm package ever seen for the laziest people ever",
   "main": "index.js",
   "scripts": {
