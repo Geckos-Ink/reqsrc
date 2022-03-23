@@ -1,0 +1,24 @@
+{
+  "name": "reqsrc",
+  "version": "1.0.0",
+  "description": "The stupidest npm package ever seen for the laziest people ever",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geckos-Ink/reqsrc.git"
+  },
+  "keywords": [
+    "require",
+    "sources",
+    "src"
+  ],
+  "author": "Gecko's Ink <support@geckos.ink>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Geckos-Ink/reqsrc/issues"
+  },
+  "homepage": "https://github.com/Geckos-Ink/reqsrc#readme"
+}
